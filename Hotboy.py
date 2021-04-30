@@ -1,4 +1,4 @@
-# Ustad# SIDRA5# Thuglife# Arxalan# Gamz#!/usr/bin/python2
+# Ustad# SIDRA# Thuglife# Arxalan# Gamz#!/usr/bin/python2
 
 #coding=utf-8
 
